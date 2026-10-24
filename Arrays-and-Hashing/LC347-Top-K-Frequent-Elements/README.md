@@ -18,8 +18,8 @@ Input: nums = [1,2,1,2,1,2,3,1,3,2], k = 2 <br>
 Output: [1,2]
 
 **Constraints:** <br>
-1 <= nums.length <= 105 <br>
--104 <= nums[i] <= 104 <br>
+1 <= nums.length <= 10^5 <br>
+-10^4 <= nums[i] <= 10^4 <br>
 `k` is in the range [1, the number of unique elements in the array]. <br>
 It is **guaranteed** that the answer is **unique**.
 
