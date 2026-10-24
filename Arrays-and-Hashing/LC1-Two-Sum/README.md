@@ -31,9 +31,9 @@ Explanation: <br>
 The sum of `nums[0]` and `nums[1]` is 3 + 3 = 6, which equals the target. Therefore, the indices `[0, 1]` are returned.
 
 **Constraints:** <br>
-2 <= nums.length <= 104 <br>
--109 <= nums[i] <= 109 <br>
--109 <= target <= 109 <br>
+2 <= nums.length <= 10^4 <br>
+-10^9 <= nums[i] <= 10^9 <br>
+-10^9 <= target <= 10^9 <br>
 Only one valid answer exists.
 
 
